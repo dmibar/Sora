@@ -1,5 +1,0 @@
-Flask
-requests
-google-genai
-flask-cors
-gunicorn
