@@ -1,5 +1,3 @@
-!pip install google-genai requests
-
 from google import genai
 from google.genai import types
 import re
